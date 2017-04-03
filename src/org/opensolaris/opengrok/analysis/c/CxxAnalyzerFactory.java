@@ -39,6 +39,7 @@ public class CxxAnalyzerFactory extends FileAnalyzerFactory {
     private static final String[] SUFFIXES = {
         "CPP",
         "HPP",
+        "H",
         "CC",
         "C++",
         "HH",

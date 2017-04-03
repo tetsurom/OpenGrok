@@ -39,7 +39,6 @@ public class CAnalyzerFactory extends FileAnalyzerFactory {
     
     private static final String[] SUFFIXES = {
         "C",
-        "H",
         "I",
         "L",
         "Y",
